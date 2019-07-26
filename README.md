@@ -1,34 +1,38 @@
+<p align="center">
+  <img src="/logo.svg" width="256" title="Seed logo">
+</p>
+
 # Awesome Seed RS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things related to Seed
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official Resources](#official-resources)
+- [Quickstarts](#quickstarts)
+- [Examples](#examples)
+- [Projects Using Seed](#projects-using-seed)
 
+## Official Resources
 
-## Section
+- [Homepage](https://seed-rs.org/)
+- [GitHub repo](https://github.com/David-OConnor/seed)
 
-About this section. Optional. Keep this short and focus on the list.
+## Quickstarts
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Default quickstart](https://github.com/David-OConnor/seed-quickstart) - Contains only Rust libraries.
+- [Quickstart with Webpack](https://github.com/MartinKavik/seed-quickstart-webpack) - Main features: Auto-reload, Minification (CSS/JS/HTML/Rust), [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
 
+## Examples
 
-## Another Section
+- [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld)
+- [Examples in official GitHub repo](https://github.com/David-OConnor/seed/tree/master/examples)
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## Projects Using Seed
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
