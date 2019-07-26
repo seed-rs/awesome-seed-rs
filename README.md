@@ -1,10 +1,16 @@
-<p align="center">
-  <img src="/logo.svg" width="256" title="Seed logo">
-</p>
-
 # Awesome Seed RS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+    <a href="https://seed-rs.org/">
+        <img src="/logo.svg" width="256" title="Seed logo">
+    </a>
+</p>
+
 > A curated list of awesome things related to Seed
+
+[Seed](https://seed-rs.org/) is an open-source Rust framework for creating fast and reliable web apps running in WebAssembly.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
@@ -25,7 +31,7 @@
 
 ## Examples
 
-- [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld)
+- [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
 - [Examples in official GitHub repo](https://github.com/David-OConnor/seed/tree/master/examples)
 
 ## Projects Using Seed
