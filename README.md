@@ -32,7 +32,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Examples
 
 - [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
-- [Examples in official GitHub repo](https://github.com/David-OConnor/seed/tree/master/examples)
+- [Official examples](https://github.com/David-OConnor/seed/tree/master/examples) - Smaller examples included in official repo.
 
 ## Projects Using Seed
 
