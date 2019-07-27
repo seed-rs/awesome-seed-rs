@@ -36,6 +36,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Projects Using Seed
 
+- [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
