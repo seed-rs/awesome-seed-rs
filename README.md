@@ -15,6 +15,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Books](#books)
 - [Quickstarts](#quickstarts)
 - [Examples](#examples)
 - [Projects Using Seed](#projects-using-seed)
@@ -24,10 +25,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Homepage](https://seed-rs.org/)
 - [GitHub repo](https://github.com/David-OConnor/seed)
 
+## Books
+- [Engineering Rust Web Applications](https://erwabook.com/) - Diesel, Rocket and Seed.
+
 ## Quickstarts
 
 - [Default quickstart](https://github.com/David-OConnor/seed-quickstart) - Contains only Rust libraries.
-- [Quickstart with Webpack](https://github.com/MartinKavik/seed-quickstart-webpack) - Main features: Auto-reload, Minification (CSS/JS/HTML/Rust), [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
+- [Quickstart with Webpack](https://github.com/MartinKavik/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
 
 ## Examples
 
@@ -37,6 +41,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Projects Using Seed
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
+- [Kavik.cz](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 
 ## Contribute
 
