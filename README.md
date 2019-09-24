@@ -37,6 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
 - [Official examples](https://github.com/David-OConnor/seed/tree/master/examples) - Smaller examples included in official repo.
+- [ERWA mytodo](https://github.com/MartinKavik/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
 ## Projects Using Seed
 
