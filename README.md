@@ -43,6 +43,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
+- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## Contribute
 
