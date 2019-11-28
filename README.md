@@ -23,27 +23,28 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Official Resources
 
 - [Homepage](https://seed-rs.org/)
-- [GitHub repo](https://github.com/David-OConnor/seed)
+- [GitHub repo](https://github.com/seed-rs/seed)
 
 ## Books
 - [Engineering Rust Web Applications](https://erwabook.com/) - Diesel, Rocket and Seed.
 
 ## Quickstarts
 
-- [Default quickstart](https://github.com/David-OConnor/seed-quickstart) - Contains only Rust libraries.
-- [Quickstart with Webpack](https://github.com/MartinKavik/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
+- [Default quickstart](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
+- [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/) and Typescript integration.
 
 ## Examples
 
-- [RealWorld example](https://github.com/MartinKavik/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
-- [Official examples](https://github.com/David-OConnor/seed/tree/master/examples) - Smaller examples included in official repo.
-- [ERWA mytodo](https://github.com/MartinKavik/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
+- [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+- [Official examples](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
+- [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
 ## Projects Using Seed
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) - Shows curated information about the payment channel network of the AdEx advertising protocol.
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 - [benxu.dev/blog](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+- [seed-rs.org](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
 
 ## Contribute
 
