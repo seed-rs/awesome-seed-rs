@@ -19,6 +19,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quickstarts](#quickstarts)
 - [Examples](#examples)
 - [Projects Using Seed](#projects-using-seed)
+- [Libraries](#libraries)
 
 ## Official Resources
 
