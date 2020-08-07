@@ -44,6 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Official examples](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
 - [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 - [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
+- [Seeded Game of Life](https://github.com/arn-the-long-beard/seeded_game_of_life) - Game of life with [tutorial](https://dev.to/arnthelongbeard/how-to-only-rust-for-web-frontend-1026) in pure Rust inspired by [wasm tutorial](https://rustwasm.github.io/docs/book/).
 
 ## Projects Using Seed
 
