@@ -1,3 +1,5 @@
+<!--lint disable double-link-->
+
 # Awesome Seed RS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
