@@ -48,6 +48,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
 - [Seeded Game of Life](https://github.com/arn-the-long-beard/seeded_game_of_life) - Game of life with [tutorial](https://dev.to/arnthelongbeard/how-to-only-rust-for-web-frontend-1026) in pure Rust inspired by [wasm tutorial](https://rustwasm.github.io/docs/book/).
 - [Dota Underlord Perfect Build](https://github.com/warycat/dotawasm) - An app to help build optimal deck in Dota Underlord.
+- [Play Seed](https://ide.play-seed.dev) - Playground with several default examples.
 
 ## Projects Using Seed
 
@@ -57,6 +58,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) - Minimalistic and privacy friendly progressive web app for tracking your weight.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
+- [Play Seed](https://play-seed.dev) - Website about Play Seed, playground to demo Seed apps.
 
 ## Libraries
 
