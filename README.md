@@ -22,6 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Examples](#examples)
 - [Projects Using Seed](#projects-using-seed)
 - [Libraries](#libraries)
+- [Contribute](#contribute)
 
 ## Official Resources
 
