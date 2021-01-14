@@ -19,6 +19,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Official Resources](#official-resources)
 - [Books](#books)
 - [Quickstarts](#quickstarts)
+- [Bundlers](#bundlers)
 - [Examples](#examples)
 - [Projects Using Seed](#projects-using-seed)
 - [Libraries](#libraries)
@@ -39,6 +40,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Default quickstart](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
 - [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
+
+## Bundlers
+
+- [Trunk](https://github.com/thedodd/trunk) - WASM web application bundler for Rust.
+- [Web Bundler](https://github.com/panoptix-za/web-bundler) - Bundles a Seed SPA for publishing.
+- [Seeder](https://github.com/MartinKavik/seeder) - Set up Seed app and start dev server by running one command.
 
 ## Examples
 
@@ -65,6 +72,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Savory](https://gitlab.com/MAlrusayni/savory) - Library for building user interface based on Seed.
 - [seed-icons](https://crates.io/crates/seed-icons) - Library with collections of icons to include in Seed-based application.
+- [Seed Bootstrap](https://github.com/panoptix-za/seed-bootstrap) - A collection of the [Bootstrap](https://getbootstrap.com/) CSS components.
 
 ## Contribute
 
